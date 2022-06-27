@@ -1,3 +1,2 @@
 #!/bin/bash
-# hello world script
 echo -e "HELLO, WORLD"
